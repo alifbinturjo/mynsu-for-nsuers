@@ -45,3 +45,5 @@ Current semester manager
 ![current_semester_manager](https://github.com/user-attachments/assets/e3f6c189-ba24-4352-809e-3f9ea9764ae5)
 Course manager
 ![course_manager](https://github.com/user-attachments/assets/cd6287a5-d974-486b-861e-2218d784cbaf)
+Entity relationship schema
+![mynsu_ers](https://github.com/user-attachments/assets/ef553564-e254-438c-8d23-0c8ac715614e)
